@@ -38,3 +38,10 @@ Ao longo do notebook, foram exploradas diferentes etapas de um fluxo de Machine 
 7. **Avaliação:** R² no treino e no teste, erro absoluto médio, erro quadrático médio, raiz do erro quadrático médio e validação cruzada.
 
 O
+## Análise Exploratória e Visualizações
+
+A análise exploratória dos dados, incluindo as visualizações das variáveis e a análise dos resíduos, foi desenvolvida na primeira etapa deste projeto.
+
+Para evitar a repetição de conteúdos, mantive essas análises no repositório original
+
+Nesta segunda etapa, o foco está na aplicação de Redes Neurais Artificiais, no pré-processamento dos dados, na otimização de hiperparâmetros e na comparação dos resultados com o modelo LightGBM.
