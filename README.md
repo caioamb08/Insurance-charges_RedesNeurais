@@ -37,7 +37,6 @@ Ao longo do notebook, foram exploradas diferentes etapas de um fluxo de Machine 
 6. **Comparação justa:** o mesmo ajuste foi feito na rede sem padronização, para que a comparação entre as duas fosse equilibrada.
 7. **Avaliação:** R² no treino e no teste, erro absoluto médio, erro quadrático médio, raiz do erro quadrático médio e validação cruzada.
 
-O
 ## Análise Exploratória e Visualizações
 
 A análise exploratória dos dados, incluindo as visualizações das variáveis e a análise dos resíduos, foi desenvolvida na primeira etapa deste projeto.
